@@ -1,9 +1,5 @@
 # Change Log
 
-All notable changes to the "suilighttheme" extension will be documented in this file.
-
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
-
-## [Unreleased]
-
-- Initial release
+## [0.0.1] 2023-03-17
+### Added
+- Inital Release
