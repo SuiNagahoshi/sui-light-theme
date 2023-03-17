@@ -1,0 +1,21 @@
+{
+  "name": "suilighttheme",
+  "displayName": "SuiLightTheme",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.76.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "SuiLightTheme",
+        "uiTheme": "vs",
+        "path": "./themes/SuiLightTheme-color-theme.json"
+      }
+    ]
+  }
+}
